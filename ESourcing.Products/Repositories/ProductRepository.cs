@@ -2,8 +2,6 @@
 using ESourcing.Products.Entities;
 using ESourcing.Products.Repositories.Interfaces;
 using MongoDB.Driver;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace ESourcing.Products.Repositories
 {
